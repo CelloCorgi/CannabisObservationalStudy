@@ -43,3 +43,8 @@ within two weeks. If you have any questions, feel free to contact the study team
 Madeline Endres (endremad@umich.edu), Wenxin He (wenxinhe@umich.edu), Westley
 Weimer (weimerw@umich.edu)
 Computer Science & Engineering, University of Michigan
+
+
+Study poster:
+
+![alt text](https://github.com/CelloCorgi/CannabisObservationalstudy/blob/main/poster.pdf)
