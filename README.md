@@ -47,4 +47,4 @@ Computer Science & Engineering, University of Michigan
 
 Study poster:
 
-![alt text](https://github.com/CelloCorgi/CannabisObservationalstudy/blob/main/poster.pdf)
+![alt text](https://github.com/CelloCorgi/CannabisObservationalstudy/blob/main/poster.png)
