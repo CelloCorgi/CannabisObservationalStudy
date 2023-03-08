@@ -44,7 +44,12 @@ Madeline Endres (endremad@umich.edu), Wenxin He (wenxinhe@umich.edu), Westley
 Weimer (weimerw@umich.edu)
 Computer Science & Engineering, University of Michigan
 
+# More information about the study
 
-Study poster:
+Can be found in the consent form for the study available [here](https://github.com/CelloCorgi/CannabisObservationalstudy/blob/main/observational_study_consent_1.4-CLEAN%203.pdf):
+
+(https://github.com/CelloCorgi/CannabisObservationalstudy/blob/main/observational_study_consent_1.4-CLEAN%203.pdf)
+
+# Study poster:
 
 ![alt text](https://github.com/CelloCorgi/CannabisObservationalstudy/blob/main/poster.png)
