@@ -28,6 +28,14 @@ Anecdotal evidence of cannabis use by professional programmers abounds. Recent s
 }
 ```
 
+### Study Tutorial video:
+
+To get a understanding of what the study environment looked like, check out our tutorial video: 
+
+[![Link to a video with a tutorial for the experimental environment](http://img.youtube.com/vi/pQ99S8-VdfQ/0.jpg)](http://www.youtube.com/watch?v=pQ99S8-VdfQ "Observational Study Tutorial")
+
+(https://youtu.be/pQ99S8-VdfQ)
+
 ### Study Poster
 
 ![alt text](https://github.com/CelloCorgi/CannabisObservationalstudy/blob/main/poster.png)
