@@ -4,14 +4,17 @@ Repository associated with the paper: High Expectations: An Observational Study 
 
 This repository contains:
 
-- Paper text
-- Recruitment materials
-- Study analysis scripts
-- Study design information
-- Study stimuli
+- Paper text: [here](https://github.com/CelloCorgi/CannabisObservationalStudy/blob/main/ICSE2024_CannabisObservationalStudy.pdf)
+- Recruitment materials: [here](https://github.com/CelloCorgi/CannabisObservationalStudy/tree/main/Recruitment%20Materials)
+- Study analysis scripts: [here](https://github.com/CelloCorgi/CannabisObservationalStudy/tree/main/Analysis%20Scripts)
+- Study design information: [here](https://github.com/CelloCorgi/CannabisObservationalStudy/tree/main/Study%20Design)
+- Study stimuli: [here](https://github.com/CelloCorgi/CannabisObservationalStudy/tree/main/Experimental%20Stimuli) 
+- Interview-style Stimuli Correctness tests: [here](https://github.com/CelloCorgi/CannabisObservationalStudy/tree/main/Correctness%20Tests)
 - A subset of fully deidentified data
 
 If you would like to have access to the full study data and/or the study environment, please reach out to Madeline Endres (endremad@umich.edu).
+
+This study was preregistered with OSF (@OSFramework): [here](https://osf.io/g6fds)
 
 ## Abstract
 
@@ -38,4 +41,4 @@ To get a understanding of what the study environment looked like, check out our 
 
 ### Study Poster
 
-![alt text](https://github.com/CelloCorgi/CannabisObservationalstudy/blob/main/poster.png)
+![Poster showing there is an observational study of cannabis being recruited for](https://github.com/CelloCorgi/CannabisObservationalstudy/blob/main/poster.png)
