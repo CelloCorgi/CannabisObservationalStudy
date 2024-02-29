@@ -1,6 +1,6 @@
-# Cannabis Observational study
+# High Expectations: An Observational Study of Programming and Cannabis
 
-Repository associated with the paper: High Expectations: An Observational Study of Programming and Cannabis Intoxication (to appear, ICSE 2024)
+Repository associated with the paper: High Expectations: An Observational Study of Programming and Cannabis Intoxication (to appear, ICSE 2024). _Wenxin He, Manasvi Parikh, Westley Weimer, Madeline Endres_
 
 This repository contains:
 
